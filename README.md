@@ -1,9 +1,14 @@
 # Hi I'm Syed Farhad Haider!  👋
 
-### Full Stack Developer | AI Automation & SaaS Solutions | Helping Businesses Save Time & Increase Revenue
+#### Full Stack Developer | AI Automation & SaaS Solutions | Helping Businesses Save Time & Increase Revenue
+## About me
+I work with small businesses who struggle with manual processes, slow customer response, and inefficient systems.
+I help them automate workflows using AI, chatbots, and scalable web applications.
+
+Running a small food business taught me that customers only pay when they see real value, I apply the same principle when building software.
 <!--
 **syedfarhadhaider5/syedfarhadhaider5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+## About me
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
