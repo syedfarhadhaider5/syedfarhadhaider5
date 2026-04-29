@@ -6,6 +6,14 @@ I work with small businesses who struggle with manual processes, slow customer r
 I help them automate workflows using AI, chatbots, and scalable web applications.
 
 Running a small food business taught me that customers only pay when they see real value, I apply the same principle when building software.
+
+## My Projects
+ #### Case Study 1
+
+ AI InfluenceSync - Brands struggle to find reliable influencers, manage campaigns, and track real performance.
+AI InfluenceSync uses AI to match, manage, and analyze campaigns—delivering faster hiring, transparency, and better ROI.
+ #### Case Study 2
+WhatsApp Booking Automation – Automated booking and replies for small businesses, saving hours of manual work daily.
 <!--
 **syedfarhadhaider5/syedfarhadhaider5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## About me
