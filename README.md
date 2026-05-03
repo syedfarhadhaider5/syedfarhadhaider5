@@ -4,7 +4,7 @@
 ## About me
 I work with small businesses who struggle with manual processes, slow customer response, and inefficient systems.
 I help them automate workflows using AI, chatbots, and scalable web applications.
-I focus on building production ready systems used in real business environments.
+I focus on building production-ready systems used in real business environments.
 
 Running a small food business taught me that customers only pay when they see real value, I apply the same principle when building software.
 
@@ -14,13 +14,13 @@ Running a small food business taught me that customers only pay when they see re
 - Create SaaS platforms for scalable business solutions  
 - Automate workflows to reduce manual work
 - Build custom POS & ERP systems to streamline business operations
-- Develop industry specific solutions (Automotive, EdTech)
+- Develop industry-specific solutions (Automotive, EdTech)
   
 
 ## My Projects
  #### Case Study 1
 
-AutoCenter AI – AI powered platform for finding, verifying, and purchasing vehicles online
+AutoCenter AI – AI-powered platform for finding, verifying, and purchasing vehicles online
 → Simplifies buying process with secure transactions and doorstep delivery.
  #### Case Study 2
 WhatsApp Booking Automation – Automates bookings and replies for small businesses
