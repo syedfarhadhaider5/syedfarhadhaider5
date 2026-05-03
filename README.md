@@ -1,6 +1,6 @@
-# Hi I'm Syed Farhad Haider!  👋
+# Hi I'm Farhad Haider!  👋
 
-#### Full Stack Developer | AI Automation & SaaS Solutions | Helping Businesses Save Time & Increase Revenue
+#### AI Automation & SaaS Developer | I build systems that help businesses automate and grow
 ## About me
 I work with small businesses who struggle with manual processes, slow customer response, and inefficient systems.
 I help them automate workflows using AI, chatbots, and scalable web applications.
