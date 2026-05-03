@@ -4,6 +4,7 @@
 ## About me
 I work with small businesses who struggle with manual processes, slow customer response, and inefficient systems.
 I help them automate workflows using AI, chatbots, and scalable web applications.
+I focus on building production ready systems used in real business environments.
 
 Running a small food business taught me that customers only pay when they see real value, I apply the same principle when building software.
 
