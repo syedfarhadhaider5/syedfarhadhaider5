@@ -38,6 +38,14 @@ Speeds up hiring process and improves campaign ROI through data insights
 | ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square) | ![EC2](https://img.shields.io/badge/-EC2-FF9900?logo=amazonec2&logoColor=white&style=flat-square) | ![S3](https://img.shields.io/badge/-S3-569A31?logo=amazons3&logoColor=white&style=flat-square) |  ![CI/CD](https://img.shields.io/badge/-CI%2FCD-0078D7?logo=azuredevops&logoColor=white&style=flat-square) |  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square) 
 |---|---|---|---|---|
 
+## 📩 Let's Work Together
+
+If you're looking to automate your business or build AI powered systems, web & mobile apps, feel free to reach out.
+
+- 💼 Fiverr: https://fiverr.com/karblaisoft
+- 📧 Email: farhadandproject@gmail.com@email.com
+- 💼 Linkedin: https://www.linkedin.com/in/farhad-haider-shah/
+- 💬 WhatsApp: +923207650820
 <!--
 **syedfarhadhaider5/syedfarhadhaider5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## About me
