@@ -13,8 +13,8 @@ Running a small food business taught me that customers only pay when they see re
 - Build AI chatbots for customer support & automation  
 - Create SaaS platforms for scalable business solutions  
 - Automate workflows to reduce manual work
-- Custom POS & ERP
-- Automotive industry & Edtech apps
+- Build custom POS & ERP systems to streamline business operations
+- Develop industry specific solutions (Automotive, EdTech)
   
 
 ## My Projects
@@ -28,7 +28,7 @@ WhatsApp Booking Automation – Automates bookings and replies for small busines
 
  #### Case Study 3
 AI InfluenceSync – AI platform to match brands with influencers and manage campaigns
-Speeds up hiring process and improves campaign ROI through data insights
+→ Speeds up hiring process and improves campaign ROI through data insights
 
 ### 🛠️ Technologies & Tools
 
@@ -52,7 +52,7 @@ Speeds up hiring process and improves campaign ROI through data insights
 If you're looking to automate your business or build AI powered systems, web & mobile apps, feel free to reach out.
 
 - 💼 Fiverr: https://fiverr.com/karblaisoft
-- 📧 Email: farhadandproject@gmail.com@email.com
+- 📧 Email: farhadandproject@gmail.com
 - 💼 Linkedin: https://www.linkedin.com/in/farhad-haider-shah/
 - 💬 WhatsApp: +923207650820
 <!--
