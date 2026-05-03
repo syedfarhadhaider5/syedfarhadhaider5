@@ -10,8 +10,8 @@ Running a small food business taught me that customers only pay when they see re
 ## My Projects
  #### Case Study 1
 
- AI InfluenceSync - Brands struggle to find reliable influencers, manage campaigns, and track real performance.
-AI InfluenceSync uses AI to match, manage, and analyze campaigns—delivering faster hiring, transparency, and better ROI.
+AutoCenter AI – AI powered platform for finding, verifying, and purchasing vehicles online
+→ Simplifies buying process with secure transactions and doorstep delivery.
  #### Case Study 2
 WhatsApp Booking Automation – Automated booking and replies for small businesses, saving hours of manual work daily.
  #### Case Study 3
