@@ -8,6 +8,15 @@ I focus on building production ready systems used in real business environments.
 
 Running a small food business taught me that customers only pay when they see real value, I apply the same principle when building software.
 
+## 🚀 What I Do
+
+- Build AI chatbots for customer support & automation  
+- Create SaaS platforms for scalable business solutions  
+- Automate workflows to reduce manual work
+- Custom POS & ERP
+- Automotive industry & Edtech apps
+  
+
 ## My Projects
  #### Case Study 1
 
