@@ -13,10 +13,12 @@ Running a small food business taught me that customers only pay when they see re
 AutoCenter AI – AI powered platform for finding, verifying, and purchasing vehicles online
 → Simplifies buying process with secure transactions and doorstep delivery.
  #### Case Study 2
-WhatsApp Booking Automation – Automated booking and replies for small businesses, saving hours of manual work daily.
+WhatsApp Booking Automation – Automates bookings and replies for small businesses
+→ Reduces manual work by up to 70% and enables instant customer response
+
  #### Case Study 3
-AutoCenter AI - Customers face difficulty in online in finding, verifying, and securely purchasing vehicles with a smooth experience.
-AutoCenter AI simplifies selection, ensures secure transactions, and enables doorstep delivery—making car buying fast, safe, and hassle-free.
+AI InfluenceSync – AI platform to match brands with influencers and manage campaigns
+Speeds up hiring process and improves campaign ROI through data insights
 
 ### 🛠️ Technologies & Tools
 
