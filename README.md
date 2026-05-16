@@ -51,10 +51,11 @@ AI InfluenceSync – AI platform to match brands with influencers and manage cam
 
 If you're looking to automate your business or build AI powered systems, web & mobile apps, feel free to reach out.
 
+- 💼 Portfolio: https://farhad-haider-portfolio.vercel.app/
 - 💼 Fiverr: https://fiverr.com/karblaisoft
 - 📧 Email: farhadandproject@gmail.com
 - 💼 Linkedin: https://www.linkedin.com/in/farhad-haider-shah/
-- 💬 WhatsApp: +923207650820
+- 💬 WhatsApp: +923041660474, +923207650820
 <!--
 **syedfarhadhaider5/syedfarhadhaider5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## About me
